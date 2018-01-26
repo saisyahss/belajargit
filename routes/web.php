@@ -15,4 +15,4 @@ Route::get('/', function () {
     return view('welcome');
 });
 //dari andy untuk siti
-//test test
+//test
